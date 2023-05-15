@@ -1,0 +1,17 @@
+
+
+body{
+  background-color: aquamarine;
+  text-align: center;
+}
+
+.box{
+  width: auto;
+  height: auto;
+  position: relative;
+  color: blueviolet;
+  font-size:xx-large;
+  padding: 50px;
+  top:200px;
+  font-family:'digital-7';
+}
